@@ -1,10 +1,10 @@
 footer
 {
-    position: fixed;
-    bottom:0px;
+    position:fixed;
+    bottom:0;
     height: 60px;
     width: 100%;
     text-align: center;
-    line-height:40px;
+    line-height:60px;
     border-top: solid 1px #CCCCCC;
 }
