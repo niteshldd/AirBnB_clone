@@ -56,7 +56,7 @@ $ sudo apt-get install apache2
 $ python -m SimpleHTTPServer 8000
 ```
 3) Open up browser with http://localhost:8000/AirBnB_clone/web_static
-
+4) Done! You can see all the html files.
 ### Authors
 *Lisa Leung* - [Github](https://github.com/lisale0) || [Twitter](https://twitter.com/lisale01) || [email](lisa.leung@holbertonschool.com)
 
