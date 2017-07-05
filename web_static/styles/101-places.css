@@ -105,7 +105,11 @@ article .head
     font-weight: bold;
     margin-top: 5px;
 }
-
+/*places labeling*/
+section.places > h1
+{
+    width:100%;
+}
 /*border for amenities*/
 section.places > article > div:nth-child(5) > h2
 {

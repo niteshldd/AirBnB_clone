@@ -44,8 +44,7 @@ section.filters > div.amenities
     text-align: left;
     position:relative;
 }
-
-h2
+section > div.locations > ul > li > h2
 {
     color:black;
     line-height: 0.5;
@@ -84,19 +83,28 @@ h4
     margin:auto;
 
 }
-section.filters > div.locations > ul > li
+div.locations > ul > li > h2
 {
-    line-height: 1;
+    line-height: 1px;
     color:black;
+}
+div.locations > ul > li
+{
+    color:black;
+    line-height: 1;
     list-style: none;
 }
 
-section.filters > div.amenities > div > li
+.locations > ul > li > p
+{
+    margin-left:10px;
+    line-height: 0.5;
+}
+section > div.amenities > div > ul > li
 {
     line-height: 1;
     color:black;
     list-style: none;
-    margin-left: 25px;
 }
 .locations:hover .popover
 {
