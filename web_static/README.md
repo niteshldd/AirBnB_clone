@@ -30,6 +30,20 @@ The repository contains the following html files:
 |101-index.html| flex layout is used|
 |102-index.html| mobile responsive|
 
+The repository contains the following css files:
+
+|   **File**    |
+|---------------|
+|2-common.css, 2-header.css, 2-footer.css|
+|3-common.css, 3-header.css, 3-footer.css|
+|4-common.css, 4-filters.css|
+|5-filters.css|
+|6-filters.css|
+|7-places.css|
+|8-places.css|
+|100-places.css|
+|101-places.css|
+|102-common.css, 102-header.css, 102-footer.css, 102-filters.css, 102-places.css|
 
 ### Authors
 *Lisa Leung* - [Github](https://github.com/lisale0) || [Twitter](https://twitter.com/lisale01) || [email](lisa.leung@holbertonschool.com)
