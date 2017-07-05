@@ -45,6 +45,18 @@ The repository contains the following css files:
 |101-places.css|
 |102-common.css, 102-header.css, 102-footer.css, 102-filters.css, 102-places.css|
 
+
+### Viewing the pages
+1) install apache2
+```
+$ sudo apt-get install apache2
+```
+2) Run server with specified port number
+```
+$ python -m SimpleHTTPServer 8000
+```
+3) Open up browser with http://localhost:8000/AirBnB_clone/web_static
+
 ### Authors
 *Lisa Leung* - [Github](https://github.com/lisale0) || [Twitter](https://twitter.com/lisale01) || [email](lisa.leung@holbertonschool.com)
 
